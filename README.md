@@ -3,7 +3,8 @@
 Bem-vindo ao meu repositório de estudos! Este projeto foi criado com o objetivo de consolidar e organizar meus aprendizados em três das tecnologias mais essenciais e demandadas para qualquer desenvolvedor ou profissional da área de dados: **Python**, **SQL** e **Git/GitHub**.
 
 > *"Eu escolhi criar um guia de estudos de Python, SQL e Git porque são três tecnologias que estou estudando atualmente e quero aprofundar meus conhecimentos práticos e teóricos, melhorando minhas habilidades no dia a dia."*
-
+> 
+*link para acesso: https://notebook.google.com/notebook/b48fee0e-f186-4c15-8c38-e4c71ef9f539*
 ---
 
 ## 📌 Conteúdo do Guia
